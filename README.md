@@ -21,7 +21,7 @@ public:
    } 
   else  
  
-   cout <<"низя"<< endl; 
+   cout <<"фигте"<< endl; 
     
  } 
 }; 
